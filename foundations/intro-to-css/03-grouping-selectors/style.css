@@ -1,0 +1,14 @@
+.contrast-one,
+.contrast-two {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+.contrast-one {
+    color: white;
+    background-color: black;
+    font-weight: 700;
+}
+.contrast-two {
+    color: black;
+    background-color: yellow;
+}
